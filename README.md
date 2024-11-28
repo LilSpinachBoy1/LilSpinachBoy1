@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Sam
+
+This is my GitHub, which contains a multitude of random projects in random languages!
+
+I hope you enjoy looking at some awful code, that might hopefully get better in the future!
 
 <!--
 **LilSpinachBoy1/LilSpinachBoy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
